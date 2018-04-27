@@ -1,10 +1,10 @@
 <?php
 class Database
 {
-    private static $dbName = 'epiz_21996389_dentalclinic' ;
-    private static $dbHost = 'sql210.epizy.com' ;
-    private static $dbUsername = 'epiz_21996389';
-    private static $dbUserPassword = '30Bu8kztutKB';
+    private static $dbName = 'ddddd' ;
+    private static $dbHost = 'hhhhhhh' ;
+    private static $dbUsername = 'uuuuuuu';
+    private static $dbUserPassword = 'ppppppp';
      
     private static $cont  = null;
      
