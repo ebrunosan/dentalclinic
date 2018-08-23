@@ -1,10 +1,10 @@
 <?php
 class Database
 {
-    private static $dbName = 'ddddd' ;
-    private static $dbHost = 'hhhhhhh' ;
-    private static $dbUsername = 'uuuuuuu';
-    private static $dbUserPassword = 'ppppppp';
+    private static $dbName = 'id5543831_dentalclinic' ;
+    private static $dbHost = 'localhost' ;
+    private static $dbUsername = 'id5543831_epiz_21996389';
+    private static $dbUserPassword = '30Bu8kztutKB';
      
     private static $cont  = null;
      
@@ -34,6 +34,6 @@ class Database
     public static function disconnect()
     {
         self::$cont = null;
-    }  
+    }
 }
 ?>

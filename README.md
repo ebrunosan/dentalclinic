@@ -1,5 +1,5 @@
 # dentalclinic
-PHP and MySql project 
+PHP, MySQL, and Bootstrap project 
 
 This website can be accessed at [ebrunosan.epizy.com/dentalclinic/](ebrunosan.epizy.com/dentalclinic/)
 
